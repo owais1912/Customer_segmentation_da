@@ -1,0 +1,13 @@
+streamlit>=1.20
+pandas
+numpy
+scikit-learn
+joblib
+nltk
+plotly
+openai
+python-dotenv
+# shap removed by default for memory; add only if necessary
+
+# GenAI client for Gemini
+google-genai>=0.6.0
